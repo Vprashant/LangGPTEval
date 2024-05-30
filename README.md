@@ -179,15 +179,6 @@ Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTIN
 
 LangGPTEval is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## 🌟 Stay Connected
-
-Stay updated with the latest news and updates about LangGPTEval by following us on social media:
-
-- [GitHub](https://github.com/your-repo/LangGPTEval)
-- [Twitter](https://twitter.com/your-profile)
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-
----
 
 **Happy Evaluating!** 🎉
 
