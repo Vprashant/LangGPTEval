@@ -174,7 +174,7 @@ LangGPTEval is licensed under the MIT License. See the [LICENSE](LICENSE) file f
 
 **Happy Evaluating!** 🎉
 
-LangGPTEval is here to make your RAG model evaluations precise and easy. If you have any questions or need further assistance, feel free to reach out to our support team.
+LangGPTEval is here to make your RAG model evaluations precise and easy. If you have any questions or need further assistance, feel free to reach out to me.
 
 ---
 
