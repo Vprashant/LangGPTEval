@@ -8,7 +8,7 @@ api_key = 'your-openai-api-key'
 
 
 openai_model =  OpenAI(openai_api_key=api_key, openai_organization="YOUR_ORGANIZATION_ID")
-# Example 
+# Example and test with your mode api
 context = [ContextData(page_content="Test context")]
 response = "Test response"
 input_data = EvaluationInput(context=context, response=response)
