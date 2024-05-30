@@ -1,4 +1,5 @@
 # LangGPTEval
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-370/)
 [![PyPi version](https://img.shields.io/pypi/v/fancybbox)](https://pypi.org/project/fancybbox/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
