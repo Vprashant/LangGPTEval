@@ -121,32 +121,6 @@ except ValueError as e:
     print(f"An error occurred during evaluation: {str(e)}")
 ```
 
-### Example with Azure Model
-
-```python
-class AzureModel:
-    def invoke(self, prompt):
-        # Azure model implementation
-        return "0.8"  # Example score
-
-# Create an Azure model instance
-azure_model = AzureModel()
-
-try:
-    # Evaluate with the Azure model
-    faithfulness_result = evaluate_faithfulness(input_data, azure_model)
-    context_recall_result = evaluate_context_recall(input_data, azure_model)
-    answer_relevancy_result = evaluate_answer_relevancy(input_data, azure_model)
-    context_relevancy_result = evaluate_context_relevancy(input_data, azure_model)
-
-    print(faithfulness_result.score)
-    print(context_recall_result.score)
-    print(answer_relevancy_result.score)
-    print(context_relevancy_result.score)
-except ValueError as e:
-    print(f"An error occurred during evaluation: {str(e)}")
-```
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before making a pull request.
